@@ -1,4 +1,4 @@
-package com.pb.dn310162sap;
+package com.pb.dn310162sap.hw1;
 
 public class HelloWorld {
     public static void main(String[] args) {
